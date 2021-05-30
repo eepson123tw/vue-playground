@@ -1,0 +1,7 @@
+{
+  "editor.fontLigatures": null,
+  // eslint 設置
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
