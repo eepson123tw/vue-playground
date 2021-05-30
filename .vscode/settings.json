@@ -3,5 +3,11 @@
   // eslint 設置
   "editor.codeActionsOnSave": {
     "source.fixAll": true
-  }
+  },
+  "vetur.format.defaultFormatter.css": "none",
+  "vetur.format.defaultFormatter.html": "none",
+  "vetur.format.defaultFormatter.js": "none",
+  "vetur.format.defaultFormatter.less": "none",
+  "vetur.format.defaultFormatter.postcss": "none",
+  "vetur.format.defaultFormatter.pug": "none"
 }
